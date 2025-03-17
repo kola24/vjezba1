@@ -3,3 +3,7 @@ Console.WriteLine("Hello, World!");
 Console.WriteLine("Novo");
 Console.WriteLine("halo halo");
 //ispis halo halo
+
+class NewClass
+{ 
+}
