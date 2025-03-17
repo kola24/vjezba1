@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace vjezba1
 {
+   
     internal class NewClass
     {
+        void main()
+        {
+        }
     }
+}
 }
